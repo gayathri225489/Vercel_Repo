@@ -1,0 +1,16 @@
+h1 { 
+color: navy; 
+font-size: 26px; 
+text-align: center; 
+} 
+p { 
+color: red; 
+font-size: 20px; 
+} 
+button { 
+background-color:lightgreen; 
+color:black ; 
+padding: 15px; 
+border: none; 
+cursor: pointer; 
+}
